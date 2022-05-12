@@ -1,0 +1,13 @@
+.bwdic-compare-icon::after {
+    content: 'bwd' !important;
+    position: absolute !important;
+    right: 7px;
+    top: 7px;
+    color: #fffefe;
+    font-family: initial;
+    background-color: #cfcfcf;
+    height: 15px;
+    width: 31px;
+    border-radius: 3px;
+    font-size: 13px;
+  }
